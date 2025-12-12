@@ -20,7 +20,8 @@ Supports adding, listing, deleting transactions, CSV export, and a full GUI.
 ## 📸 Demo
 
 ### JavaFX UI  
-*(Add your GIF or video link here — see instructions below)*
+
+https://github.com/user-attachments/assets/1573e945-fdd3-40f7-acff-1a1deb9d9331
 
 ---
 
@@ -33,5 +34,4 @@ Supports adding, listing, deleting transactions, CSV export, and a full GUI.
 
 ---
 
-## 🔧 How to Run (GUI)
 
